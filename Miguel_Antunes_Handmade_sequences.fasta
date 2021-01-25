@@ -1,0 +1,28 @@
+
+- Write up a 21 base pair sequence that contains 4 ambiguities:
+5' ATC RTC GDT NAT CGW CGA TGA 3'
+
+- Possible unambiguous sequence 1
+5' ATC ATC GAT CAT CGA TCG ATC 3'
+
+- Possible unambiguous sequence 2
+5' ATC GTC GAT AGAT CGAT CGAT 3'
+
+- Possible unambiguous sequence 3
+5' ATC ATC GAT GAT CGT CGA TGA 3'
+
+- Reverse of the unambiguous sequence 1
+5' TAG CTA GCT AGA TAG CTG CTA 3'
+
+- Complement of the unambiguous sequence 1
+5' ATC GAT CGA TCT ATC GAC GAT 3'
+
+- Reverse complement of the unambiguous sequence 1
+5' TAG CAG CTA TCT AGC TAG CTA 3'
+
+-The amino-acid chain it produces (use the 1 letter encoding):
+
+5' AUC GUC GAU AGA UCG AUC GAU 3'
+5' Ile Val Asp Arg Ser Ile Asp 3'
+
+
